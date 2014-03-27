@@ -3,7 +3,6 @@
 * @author: Alefe Variani <alefevariani@unochapeco.edu.br>
 * Utilifando Função "range" do PHP, para mostras alfabeto e sequencia de numeros 
 *
-*
 * range(valorMinimo, valorMaximo, Parametro)
 *
 * Mais informações: http://www.php.net/manual/pt_BR/function.range.php
