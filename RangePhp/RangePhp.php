@@ -8,13 +8,11 @@
 * Mais informações: http://www.php.net/manual/pt_BR/function.range.php
 */
 
-
 //Mostrando Alfabeto
 foreach (range('A', 'Z') as $letra){
 	print $letra;
 	echo "\n";
 }
-
 
 //Usado para numeros
 foreach (range(0, 100) as $numero){
