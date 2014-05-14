@@ -14,7 +14,7 @@ foreach (range('A', 'Z') as $letra){
 	echo "\n";
 }
 
-//Usado para numeros
+//Usado para números
 foreach (range(0, 100) as $numero){
 	print $numero;
 	echo "\n";
